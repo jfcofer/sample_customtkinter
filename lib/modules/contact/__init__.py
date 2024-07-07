@@ -1,0 +1,1 @@
+from lib.modules.contact.view.contact_page import ContactPage

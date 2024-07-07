@@ -1,0 +1,1 @@
+from lib.modules.about.view.about_page import AboutPage
